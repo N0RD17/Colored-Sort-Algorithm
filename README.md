@@ -11,5 +11,8 @@ Git - For installation purposes
 
 # Installation
 ```
-git clone https://github.com/N0RD17/Colored-Sort-Algorithm; cd Colored-Sort-Algorithm; make; ./coloredSort
+git clone https://github.com/N0RD17/Colored-Sort-Algorithm
+cd Colored-Sort-Algorithm
+make
+run the output binary
 ```
